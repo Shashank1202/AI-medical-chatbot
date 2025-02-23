@@ -1,0 +1,4 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,output 2,timestamp
+.gradio\flagged\audio_filepath\7d6079f51b89943f028d\audio.wav,.gradio\flagged\image_filepath\4f4a53793e7fad0a5722\acne.jpg, you,"I cannot prescribe medicine, but I can give you some advice about the picture.
+
+With what I see, I think you have very inflamed pimples and some scarring. I recommend an over-the-counter pimple cream or gel, along with a more refined diet and better skincare practices.",,2025-02-24 01:27:41.918488
